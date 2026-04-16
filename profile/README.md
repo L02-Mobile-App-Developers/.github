@@ -31,6 +31,6 @@ Repository này phục vụ môn học **CO3043 – Mobile App Developer**.
 
 ## 🔗 Liên kết
 
-- 📦 **Repository chính thức**: https://github.com/L02-Mobile-App-Developers/.github
+- 📦 **Repository chính thức**: https://github.com/L02-Mobile-App-Developers/EasySplit-app
 - 🗂️ **Danh sách repositories**: https://github.com/orgs/L02-Mobile-App-Developers/repositories
-- 📘 **Wiki page**: https://github.com/L02-Mobile-App-Developers/.github/wiki
+- 📘 **App wiki page**: https://github.com/L02-Mobile-App-Developers/EasySplit-app/wiki
