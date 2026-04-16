@@ -3,7 +3,7 @@
 ## 👋 Giới thiệu
 
 Chúng tôi là nhóm sinh viên đến từ **Đại học Bách Khoa TP.HCM**.  
-Repository này phục vụ môn học **CO3043 – Mobile App Developer**.
+Repository này phục vụ môn học **CO3043 – Mobile Application Development**.
 
 ---
 
