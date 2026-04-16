@@ -26,3 +26,11 @@ Repository này phục vụ môn học **CO3043 – Mobile App Developer**.
 - 💸 **Quản lý chi tiêu**: Thêm khoản chi, chọn người trả và chia tiền linh hoạt (chia đều / tùy chỉnh).
 - 🤖 **Tự động tính công nợ**: Ai nợ ai, nợ bao nhiêu – cập nhật theo thời gian thực.
 - 📊 **Lịch sử minh bạch**: Hiển thị lịch sử chi tiêu và thanh toán rõ ràng cho từng thành viên.
+
+---
+
+## 🔗 Liên kết
+
+- 📦 **Repository chính thức**: https://github.com/L02-Mobile-App-Developers/.github
+- 🗂️ **Danh sách repositories**: https://github.com/orgs/L02-Mobile-App-Developers/repositories
+- 📘 **Wiki page**: https://github.com/L02-Mobile-App-Developers/.github/wiki
